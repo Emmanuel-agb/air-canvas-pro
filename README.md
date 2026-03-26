@@ -54,5 +54,5 @@ This project uses hand tracking to let you draw in the air with your finger, sel
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/air-canvas-pro.git
+git clone https://github.com/Emmanuel-agb/air-canvas-pro.git
 cd air-canvas-pro
